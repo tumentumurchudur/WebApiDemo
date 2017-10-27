@@ -1,0 +1,11 @@
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb

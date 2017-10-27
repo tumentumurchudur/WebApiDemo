@@ -1,0 +1,10 @@
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApiDemo.deps.json
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApiDemo.runtimeconfig.json
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApiDemo.runtimeconfig.dev.json
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApiDemo.dll
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApiDemo.pdb
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApiDemo.csproj.CoreCompileInputs.cache
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApiDemo.AssemblyInfoInputs.cache
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApiDemo.AssemblyInfo.cs
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApiDemo.dll
+c:\users\moxtek1\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApiDemo.pdb
